@@ -1,0 +1,26 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/11-08">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de Picuris</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.picurispueblo.org/us/nsn/picurispueblo/council/resolutions/2008/11-08/us/nsn/picurispueblo/council/resolutions/2008/adopted/11-08.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/us/nsn/picurispueblo/council/resolutions/2008/11-08"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Res. No. 11-08. Ratification of Titles 1, 2, 3, &amp; 4 of The Pueblo of Picuris Law and Order Code</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-04-03/2025-03-11]: Pueblo of Picuris Tribal Council Res. No. 11-08</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2025-03-11</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-06-16</oll:dateEffective>
+    <oll:docId>Pueblo of Picuris Tribal Council Res. No. 11-08</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo of Picuris Tribal Council Res. No. 11-08|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/11-08/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/picurispueblo/council/resolutions/2008/11-08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/11-08/_changes">
+    <rdf:_1 rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/11-08"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

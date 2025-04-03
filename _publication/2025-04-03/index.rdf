@@ -1,0 +1,25 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.picurispueblo.org/_publication/2025-04-03">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de Picuris</dcterms:creator>
+    <dcterms:isPartOf rdf:resource="https://law.picurispueblo.org/"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+    <rdfs:label xml:lang="en">Publication 2025-04-03</rdfs:label>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/code"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2000/11-00"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2005/14-05"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2006/25-06"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2007/20-07"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/11-08"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2008/18-08"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2009/04-09"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2010/2010-09"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2013/2013-016"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2014/2014-10"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2015/2015-26"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2016/2016-12"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2018/2018-25"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2019/2019-02"/>
+    <oll:hasDocument rdf:resource="https://law.picurispueblo.org/_publication/2025-04-03/_date/2025-03-11/us/nsn/picurispueblo/council/resolutions/2025/2025-008"/>
+  </rdf:Description>
+</rdf:RDF>
